@@ -3,6 +3,7 @@ DEV/
 .venv/
 resources/
 aclimdb_v1/
+aclImbd/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
